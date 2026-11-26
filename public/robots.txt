@@ -1,0 +1,3 @@
+User-agent:
+Allow: /
+Sitemap: htpps://mi-sitio.com/api/sitemap
